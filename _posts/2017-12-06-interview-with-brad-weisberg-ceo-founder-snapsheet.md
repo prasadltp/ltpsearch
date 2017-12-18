@@ -1,4 +1,9 @@
 ---
+title: Interview With Brad Weisberg Ceo Founder Snapsheet
+date: 2017-12-06 00:00:00 Z
+---
+
+---
 layout: post
 tags: ASIA EUROPE INSIGHTS US
 date: 2017-12-06

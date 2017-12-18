@@ -1,11 +1,14 @@
 ---
-layout: post
-tags: INSIGHTS US Samsung-Pay
-date: 2017-12-11
-thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/SAMpay-400x220.png
 title: Samsung Pay The Third Time’s a Charm
-published: true
-category: Insights, Payments
+date: 2017-12-11 00:00:00 Z
+categories:
+- Insights, Payments
+tags:
+- INSIGHTS
+- US
+- Samsung-Pay
+layout: post
+thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/SAMpay-400x220.png
 ---
 
 After many NFC pilots and Apple Pay, Samsung seems to have cracked the code!

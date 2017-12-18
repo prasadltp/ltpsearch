@@ -1,11 +1,15 @@
 ---
-layout: post
-tags: ASIA EUROPE INSIGHTS US
-date: 2017-12-11
-thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/MEDIL-400x220.png
 title: MEDICI & IULM University to Bring FinTech Into Master Education
-published: true
-category: Fintech, News
+date: 2017-12-11 00:00:00 Z
+categories:
+- Fintech, News
+tags:
+- ASIA
+- EUROPE
+- INSIGHTS
+- US
+layout: post
+thumbnail: https://n6zgo3se7pe2sazc62u1v9qe-wpengine.netdna-ssl.com/wp-content/uploads/2017/12/MEDIL-400x220.png
 ---
 
 IULM & MEDICI will partner on FinTech modules for the first edition of IULM Master in Innovation & Entrepreneurship (MIE) – an I level master’s program in collaboration with Microsoft, Amazon Prime, and ENEL.
